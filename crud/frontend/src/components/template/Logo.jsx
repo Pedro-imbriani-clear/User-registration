@@ -1,5 +1,5 @@
 import "./Logo.css"
-import logo from '../../assets/imgs/background-cod3r-1024x538.jpg'
+import logo from '../../assets/imgs/Batman-Logo-1939.png'
 import React from "react"
 
 export default props =>
